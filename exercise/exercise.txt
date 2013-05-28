@@ -1,0 +1,5 @@
+Using the Hinode data from the data directory (stI_rebinned.idl, stV_rebinned.idl and wavelengthAxis.idl)
+compute the magnetic field flux density (B*cos(theta)) in each pixel. You will need the following information:
+
+lambda0 = 6301.5 Angstrom
+geff = 3.0
