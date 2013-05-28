@@ -1,0 +1,4 @@
+aussois
+=======
+
+Aussois Polarimetry School
